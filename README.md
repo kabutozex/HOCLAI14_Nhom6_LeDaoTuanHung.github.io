@@ -1,18 +1,18 @@
 # HOCLAI14_Nhom6_LeDaoTuanHung.github.io
 # ![Le Dao Tuan Hung](https://via.placeholder.com/150)
 <img src=""
-![Alt Text](https://github.com/yourusername/repositoryname/blob/main/path-to-image/imagename.png)
+![Alt Text](https://github.com/kabutozex/main/blob/main/path-to-image/imagename.png)
 
 
-## 👋 Hello, I'm **Le Dao Tuan Hung**
+## 👋 Xin chào, tôi là **Lê Đào Tuấn Hùng**
 
-### 🚀 Profession: [Sinh Vien]
+### 🚀 Chuyên ngành: [Công nghệ phần mềm]
 
 ---
 
-📍 **Location:** Tp.HCM, Viet Nam
+📍 **Địa chỉ:** Tp.HCM, Viet Nam
 
-🌱 **Learning:** Sinh vien năm 4
+🌱 **Học vấn:** Sinh viên năm 4
 
 ⚡ **Fun Fact:** solo yasuo?
 
@@ -20,14 +20,14 @@
 
 ---
 
-### 🛠️ **Skills**
+### 🛠️ **Kỹ năng**
 - 🖥️ Programming: HTML, CSS, JavaScript, etc.
 - 🛠️ Tools: Git, Docker, Jenkins, etc.
 - 📚 Frameworks: Spring Boot, React, etc.
 
 ---
 
-### 🌐 **Find me on:**
+### 🌐 **Liên hệ với tôi:**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/kabutozex)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
