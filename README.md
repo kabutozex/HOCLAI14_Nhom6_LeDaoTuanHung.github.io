@@ -4,17 +4,17 @@
 ![Alt Text](https://github.com/yourusername/repositoryname/blob/main/path-to-image/imagename.png)
 
 
-## 👋 Hello, I'm **Your Name**
+## 👋 Hello, I'm **Le Dao Tuan Hung**
 
-### 🚀 Profession: [Your Job Title]
+### 🚀 Profession: [Sinh Vien]
 
 ---
 
-📍 **Location:** City, Country
+📍 **Location:** Tp.HCM, Viet Nam
 
-🌱 **Learning:** Topics you're learning
+🌱 **Learning:** Sinh vien năm 4
 
-⚡ **Fun Fact:** A fun fact about you
+⚡ **Fun Fact:** solo yasuo?
 
 💼 **Portfolio/Website:** [yourwebsite.com](http://yourwebsite.com)
 
@@ -29,12 +29,12 @@
 
 ### 🌐 **Find me on:**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/kabutozex)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:hutech.hung1@gmail.com)
 
 ---
 
 ### 📊 **Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabutozex&show_icons=true&theme=radical)
