@@ -1,4 +1,3 @@
-# HOCLAI14_Nhom6_LeDaoTuanHung.github.io
 <img src="https://github.com/kabutozex/HOCLAI14_Nhom6_LeDaoTuanHung.github.io/blob/master/85384037_p0.jpg" width="300" height="auto">
 [Le Dao Tuan Hung]
 
