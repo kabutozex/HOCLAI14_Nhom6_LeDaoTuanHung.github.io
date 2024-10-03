@@ -1,7 +1,7 @@
 # HOCLAI14_Nhom6_LeDaoTuanHung.github.io
-# ![Le Dao Tuan Hung](https://via.placeholder.com/150)
 <img src=""
-![Alt Text](https://github.com/kabutozex/main/blob/main/path-to-image/imagename.png)
+#![Le Dao Tuan Hung]
+
 
 
 ## 👋 Xin chào, tôi là **Lê Đào Tuấn Hùng**
